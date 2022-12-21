@@ -1,0 +1,69 @@
+{
+  "basics": {
+    "name": "Souhaib Sfaxi",
+    "label": "Student",
+    "picture": "https://github.com/souhaibsfaxi.png",
+    "email": "souhaib.sfaxi@esprit.tn",
+    "phone": "+216 53162192",
+    "website": "https://souhaibsfaxi.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at ESPRIT Tunis. I expect to graduate in June, 2023.",
+    "location": { "address": "", "postalCode": "", "city": "Tunis", "countryCode": "TN", "region": "Tunis" },
+    "profiles": [
+      { "network": "github", "username": "souhaibsfaxi", "url": "http://github.com/souhaibsfaxi" },
+      { "network": "linkedin", "username": "souhaib-sfaxi", "url": "http://linkedin.com/in/souhaib-sfaxi-90b2a7135" },
+      
+      { "network": "instagram", "username": "ss_creativecoding", "url": "http://instagram.com/ss_creativecoding" }
+    ]
+  },
+  "interests": [
+    { "name": "Interactive media" },
+    { "name": "Web development" },
+    { "name": "Creative coding" },
+    { "name": "Robotics" }
+    
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "Java","Springboot", "Javascript", "NodeJs", "Angular" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [  "Ubuntu", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ecole Sup Privée d'Ingénierie et de Technologies, Tunis, TN",
+      "area": "Computer Science (expected June, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01"
+      
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Junior Entreprise ISSATSO",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "2015-09-01",
+      "endDate": "2017-05-01",
+      "summary": "",
+      "highlights": [
+        "Events organization responsible"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Stipendium Hungaricum Scholarship",
+      "date": "2017-2019",
+      "awarder": "Tempus Public Foundation"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
