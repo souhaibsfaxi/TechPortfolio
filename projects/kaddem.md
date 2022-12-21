@@ -1,19 +1,21 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: [img/cotton/cotton-square.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png)
+title: "Kaddem Project"
+date: 2022
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game I developed for ICS 313."
+  - Springboot
+  - Java
+  - Angular
+  - TypeScript
+summary: "A web app I developed in Sprinboot (Back-End) and Angular (Front-End)"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="[../img/cotton/cotton-header.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png)">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Kaddem is a school project and and web app aiming to manage student contracts, school registration and everything related to that.
 
 To give you a flavor of the game, here is an excerpt from one run:
 
