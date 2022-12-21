@@ -3,7 +3,7 @@ layout: project
 type: project
 image: [img/cotton/cotton-square.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png)
 title: "Kaddem Project"
-date: 2022
+date: 2022-11-01
 published: true
 labels:
   - Springboot
