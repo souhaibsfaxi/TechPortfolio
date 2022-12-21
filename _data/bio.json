@@ -6,8 +6,8 @@
     "email": "souhaib.sfaxi@esprit.tn",
     "phone": "+216 53162192",
     "website": "https://souhaibsfaxi.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at ESPRI Tunis. I expect to graduate in June, 2023.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at ESPRIT Tunis. I expect to graduate in June, 2023.",
+    "location": { "address": "", "postalCode": "", "city": "Tunis", "countryCode": "TN", "region": "Tunis" },
     "profiles": [
       { "network": "github", "username": "souhaibsfaxi", "url": "http://github.com/souhaibsfaxi" },
       { "network": "linkedin", "username": "souhaib-sfaxi", "url": "http://linkedin.com/in/souhaib-sfaxi-90b2a7135" },
