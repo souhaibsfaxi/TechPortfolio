@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: [img/cotton/cotton-square.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png)
+image: img/cotton/angular.png
 title: "Kaddem Project"
 date: 2022-11-01
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A web app I developed in Sprinboot (Back-End) and Angular (Front-End)"
 ---
 
-<img class="img-fluid" src="[../img/cotton/cotton-header.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png)">
+<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 Kaddem is a school project and and web app aiming to manage student contracts, school registration and everything related to that.
 
